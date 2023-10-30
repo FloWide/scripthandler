@@ -1,0 +1,8 @@
+apps:
+  %repo-name%:
+    app_icon: ''
+    type: python
+    config:
+      entry_file: main.py
+      env: {}
+      cli_args: []
