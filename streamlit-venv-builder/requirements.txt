@@ -32,8 +32,8 @@ setuptools
 shapely == 2.0.1
 simdkalman == 1.0.2
 sqlalchemy == 2.0.0
-streamlit == 1.20.0
-streamlit-extras == 0.2.6
+streamlit == 1.27.0
+streamlit-extras == 0.3.4
 streamlit-pydantic == 0.5.0
 taskgroup == 0.0.0a4  # only for < python 3.11
 tftpy == 0.8.2
